@@ -18,9 +18,6 @@ Copy code
 git clone https://https://github.com/RobertoCaroca/Eye-Exercise.git
 Open the index.html file in your preferred web browser.
 
-Click on the "Add PacMan" button to create new PacMan characters on the screen.
-
-Click on the "Start Game" button to start the game and watch the PacMan characters move and bounce off the walls.
 
 ___
 ## Roadmap of future improvements
